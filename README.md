@@ -1,5 +1,5 @@
 # FreeFallSimulation
-This is a school project, which is the simple simulation of free-fall body motion simulation using Matlab to achieve insights about the changes of velocity, acceleration, and distance of a falling body.  
+This is a school project, which is the simple simulation of free-fall body motion using Matlab to achieve insights about the changes of velocity, acceleration, and distance of a falling body.  
 You can read through my report uploaded to this repository for more in-depth explanations of how I generated the simulation.  
 
 Table of Content  
